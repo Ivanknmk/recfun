@@ -1,4 +1,5 @@
 #Successful Tests
-#Sun Sep 21 20:51:59 CDT 2014
-recfun.PascalSuite=1411350719429
-recfun.BalanceSuite=1411350719427
+#Thu Sep 25 21:49:32 CDT 2014
+recfun.PascalSuite=1411699772312
+recfun.BalanceSuite=1411699772321
+recfun.CountChangeSuite=1411699772314
